@@ -9,8 +9,8 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '7970036127:AAEoiP59YmvuxDsuf_JEP6LsPaqh_6ihipI'  # Replace with your bot token
-ADMIN_USER_ID = 7584228621
+TELEGRAM_BOT_TOKEN = '7344773060:AAGsLVDoGSHWPoYaGweDUnc7eTatyPPi_84'  # Replace with your bot token
+ADMIN_USER_ID = 5575401798
 MONGO_URI = "mongodb+srv://golem:golempapa123@golem.ijr3g.mongodb.net/?retryWrites=true&w=majority&appName=golem"
 DB_NAME = "golem"
 COLLECTION_NAME = "users"
